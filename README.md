@@ -1,6 +1,7 @@
 # Exercise-hello-world
 
-> This is simple Hello-world project to demonstrate understanding of basic HTML and CSS
+> This is simple Hello-world project to demonstrate understanding of basic HTML and CSS. 
+> This is my first exposure to the world of programming, where building a professional project and giving attention to the project documentation by including a descriptive README is important.
 
 ## Description
 > this project was set up with linters for html and css with
